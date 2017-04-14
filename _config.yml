@@ -9,7 +9,7 @@ name: Minerva's Alcove
 description: data science enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/minerva79/minerva79.github.io/master/images/jekyll-logo.jpg
+avatar: https://raw.githubusercontent.com/minerva79/minerva79.github.io/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: users/6203226/adam-quek
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
