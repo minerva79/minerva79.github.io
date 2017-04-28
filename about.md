@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there,
 
-### More Information
+I am a research associate with a solid analytical background on real-world data and an experienced environmental science researcher. I crunch an assortment of large data-set during my spare time to refine and build up on my analytical and visualisation techniques.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
