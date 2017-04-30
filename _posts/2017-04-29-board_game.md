@@ -3,7 +3,7 @@ layout: post
 title: Visualisation of board game categories
 ---
 
-*mrpantherson* has recently updated a a collection of board game information from Board Game Geek and hosted in as [Board Game Data - March 2017](https://www.kaggle.com/mrpantherson/board-game-data) on Kaggle.
+*mrpantherson* has recently updated a collection of board game information from Board Game Geek and hosted in as [Board Game Data - March 2017](https://www.kaggle.com/mrpantherson/board-game-data) on Kaggle.
 
 Context of the data-set:
 
@@ -44,7 +44,7 @@ category <- category %>%
   gsub("^\\s+|\\s+$", "", .)
 ```
 
-Next, let's construct a data.frame based on frequency in which the different type of categories:
+Next, let's construct a data frame based on frequency in which the different type of categories:
 
 ``` r
 cat_dat <- data.frame(table(category))
@@ -64,7 +64,7 @@ wordcloud(cat_dat$category, cat_dat$Freq,
 
 ![Files in working directory](/images/20170429/wordcloud-1.png)
 
-Seems that card game is the most popular category of boardgame, followed by wargame and fantasy.
+Seems that **card game** is the most popular category of board game, followed by **wargame** and **fantasy**.
 
 Let's have another look at the top categories (i.e. categories that appeared in at least 100 games):
 
